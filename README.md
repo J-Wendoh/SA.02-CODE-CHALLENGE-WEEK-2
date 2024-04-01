@@ -20,7 +20,7 @@ The javascript program is a function that takes input of two unkown numeric valu
             ####Example:
                         .When the numbers (0,9) are input the function outputs the numbers between as (0,1,2,3,4,5,6,7,8,9)
 
-<<<<<<< HEAD
+
             ###Code Challenge 3 ----PRIME NUMBERS
 =======
   ###Code Challenge 3 ----PRIME NUMBERS
