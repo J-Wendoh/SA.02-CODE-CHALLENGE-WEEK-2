@@ -20,11 +20,16 @@ The javascript program is a function that takes input of two unkown numeric valu
             ####Example:
                         .When the numbers (0,9) are input the function outputs the numbers between as (0,1,2,3,4,5,6,7,8,9)
 
+<<<<<<< HEAD
             ###Code Challenge 3 ----PRIME NUMBERS
+=======
+  ###Code Challenge 3 ----PRIME NUMBERS
+>>>>>>> 4f37f0ea18deceeb1161fcf90076a166a2a4fa1c
 The javascript program accepts the input array of numbers and picks the prime numbers among the numbers then outputs the prime numbers into an empty arry.
             ####Example:
                         .If the array (2,3,8,5,9,4) is input the function returns (2,3,5) as the prime numbers.
 
+<<<<<<< HEAD
                                     ##INSTALLATION
             You use git clone to be able to download the documents in the GitHub.By forking the repository from the github link provided below .Copy the SSH key and clone it into your local environment through the terminal being able to open the code on Visual Studio code app.
 
@@ -32,10 +37,22 @@ The javascript program accepts the input array of numbers and picks the prime nu
 
 
             ##TECHNOLOGIES USED
+=======
+    ##INSTALLATION
+  You use git clone to be able to download the documents in the GitHub.By forking the repository from the github link provided below .Copy the SSH key and clone it into your local environment through the terminal being able to open the code on Visual Studio code app.
+
+  The github link to the repository :https://github.com/J-Wendoh/SA.02-CODE-CHALLENGE-WEEK-2.git
+
+  ##TECHNOLOGIES USED
+>>>>>>> 4f37f0ea18deceeb1161fcf90076a166a2a4fa1c
                .JAVASCRIPT
                .GITHUB
                .VISUAL STUDIO CODE
 
+<<<<<<< HEAD
                ###License
+=======
+   ###License
+>>>>>>> 4f37f0ea18deceeb1161fcf90076a166a2a4fa1c
                The content of this site is licensed under the MIT license Copyright(c) 2024.
 
