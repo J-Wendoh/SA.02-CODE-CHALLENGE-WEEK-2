@@ -17,8 +17,8 @@ The javascript program is a function that takes input string and changes the cha
 The javascript program is a function that takes input of two unkown numeric values and adds an array of numbers between the two digits.
             Example:
                         .When the numbers (0,9) are input the function outputs the numbers between as (0,1,2,3,4,5,6,7,8,9)
-            
-            Code Challenge 3 ----PRIME NUMBERS
+
+          Code Challenge 3 ----PRIME NUMBERS
 The javascript program accepts the input array of numbers and picks the prime numbers among the numbers then outputs the prime numbers into an empty arry.
             Example:
                         .If the array (2,3,8,5,9,4) is input the function returns (2,3,5) as the prime numbers.
@@ -28,8 +28,6 @@ The javascript program accepts the input array of numbers and picks the prime nu
 
  The github link to the repository :https://github.com/J-Wendoh/SA.02-CODE-CHALLENGE-WEEK-2.git
 
-
- 
   TECHNOLOGIES USED:
    .JAVASCRIPT
   .GITHUB
@@ -38,4 +36,3 @@ The javascript program accepts the input array of numbers and picks the prime nu
    License
 
   The content of this site is licensed under the MIT license Copyright(c) 2024.
-
