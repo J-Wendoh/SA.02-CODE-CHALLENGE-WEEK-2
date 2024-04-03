@@ -1,29 +1,10 @@
-document.addEventListener("DOMContentLoaded",()=>{
+let string = "jOANNE wENDOH IS CHAMPION.";
 
-function swapCase(str) {
-    let letters = str.split(' ');//turn the characters in the string into an array of characters
-    for (x of letters){
-        if (x === x.toUppercase()){
-            x.toLowerCase()
-        }else{
-            x.toUpperCase
-        }
-    }
-    return letters.join('');
+// Joanne Wendoh Is champion.
+function swapCase(string){
+  split = string.split(' ');
+    return  split.map( i =>  {
+    return  i[0].toUpperCase() + (i.slice(1)).toLowerCase()
+    }).join(" ");
 }
-
-
-
-let form = document.querySelector("form")
-let input = document.getElementById("inp")
-form.addEventListener("submit",(e) => 
-{
-    e.preventDefault()
-    let par= document.createElement("p")
-    let output = swapCase(`${input.value}`);
-    console.log(output)
-    par.textContent = output
-    body.append(par)
-    input.value=""
-})
-})
+console.log(swapCase(string))

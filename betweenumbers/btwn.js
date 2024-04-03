@@ -7,5 +7,5 @@ function numbersBetweenArray(a,b)//the two numbers that are input by the user is
     return arr;//returns the numbers pushed into the array
   }
   
-  return numbersBetweenArray(4,23)
+  console.log(numbersBetweenArray(4,23))
   

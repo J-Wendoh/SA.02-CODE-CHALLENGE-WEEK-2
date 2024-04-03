@@ -14,4 +14,4 @@ function generatePrimeNumbers(array){
 
   
   randomNos=[3,5,9,6,7,30,89,54,8,0,1,23,29]
-  return generatePrimeNumbers(randomNos);
+  console.log(generatePrimeNumbers(randomNos))
